@@ -159,4 +159,5 @@ Welcome to my GitHub profile! I'm a passionate and driven Data Science student w
 - 📚 **Datasets Created:** 3
 - 📝 **Blog Posts:** 5
 <!--END_SECTION:ds-stats-->
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
