@@ -136,8 +136,6 @@ Welcome to my GitHub profile! I'm a passionate and driven Data Science student w
 
 - **Email:** [ahmadfraz0010@gmail.com](mailto:ahmadfraz0010@gmail.com)
 - **LinkedIn:** (https://www.linkedin.com/in/ahmedfrazalvi/)
-- **Portfolio:** *(Add your portfolio link here)*
-- **Resume:** [Download PDF](Fraz_CV.pdf)
 
 ---
 
