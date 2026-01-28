@@ -159,5 +159,46 @@ Welcome to my GitHub profile! I'm a passionate and driven Data Science student w
 - 📚 **Datasets Created:** 3
 - 📝 **Blog Posts:** 5
 <!--END_SECTION:ds-stats-->
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+<details>
+<summary>📊 Detailed Project Breakdown</summary>
+
+| Project | Tech Stack | Accuracy | Status |
+|---------|------------|----------|--------|
+| Stock Prediction | LSTM, RF | 85% | ✅ |
+| Geospatial AI | VGG, MGU | 91% | ✅ |
+| Customer Segmentation | K-means, PCA | 94% | 🔄 |
+</details>
+## 🏆 Data Science Credentials
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Certified-FF6F00)
+![AWS ML](https://img.shields.io/badge/AWS-ML%20Specialty-FF9900)
+![DataCamp](https://img.shields.io/badge/DataCamp-Professional-05192D)
+![Kaggle Expert](https://img.shields.io/badge/Kaggle-Expert-20BEFF)
+
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB)
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1)
+![PyTorch](https://img.shields.io/badge/PyTorch-Pro-EE4C2C)
+![Data Science Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=stars,issues&count_private=true&include_all_commits=true&custom_title=Data%20Science%20Contributions)
+
+![ML Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css,javascript&langs_count=6)
+## 🏅 Certifications & Achievements
+
+### Professional Certifications
+- [AWS Certified Machine Learning - Specialty]()
+- [TensorFlow Developer Certificate]()
+- [Google Data Analytics Professional Certificate]()
+
+### Competition Achievements
+- **Kaggle:** Top 5% in Titanic ML Competition
+- **Hackathons:** 1st Place - GIKI Data Science Hackathon 2024
+- **Research:** Published paper on "Hybrid CNNs for Geospatial Analysis"
+
+### Online Learning
+```python
+# Auto-generated from Coursera/Edx APIs
+certifications = {
+    "deeplearning.ai": ["ML Specialization", "NLP Specialization"],
+    "coursera": ["Data Science Professional Certificate"],
+    "udacity": ["AWS Machine Learning Engineer"]
+}
 
