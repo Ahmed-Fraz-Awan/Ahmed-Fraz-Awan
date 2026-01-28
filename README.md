@@ -148,4 +148,15 @@ Welcome to my GitHub profile! I'm a passionate and driven Data Science student w
 ---
 
 **⭐ Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or discuss data science!**
+## 📊 Live Data Science Metrics
+
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white)
+
+<!--START_SECTION:ds-stats-->
+- 🏆 **Kaggle Competitions:** Top 10%
+- 🤗 **HuggingFace Models:** 2 Published
+- 📚 **Datasets Created:** 3
+- 📝 **Blog Posts:** 5
+<!--END_SECTION:ds-stats-->
 
