@@ -9,7 +9,10 @@ Welcome to my GitHub profile! I'm a passionate and driven Data Science student w
 ---
 
 ## 🛠️ Technical Skills
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ### **🧬 Machine Learning & AI**
 - **Languages:** Python, R, SQL, C++
 - **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, Keras, Hugging Face, LangChain, OpenCV, Pandas, NumPy, SciPy
@@ -126,11 +129,6 @@ Welcome to my GitHub profile! I'm a passionate and driven Data Science student w
 
 ---
 
-## 📊 GitHub Statistics
-
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadfraz&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfraz&layout=compact&theme=radical)
 
 ---
 
