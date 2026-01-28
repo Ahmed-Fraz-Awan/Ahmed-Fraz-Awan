@@ -1,11 +1,8 @@
-Here's a polished, detailed, and professional GitHub README profile tailored to showcase your skills and experience effectively:
-
----
 
 # 👋 Hello, I'm Ahmad Fraz
 
 **Data Science & AI Engineering Student | Machine Learning | Cloud Development | Data Analytics**  
-📍 Based in Pakistan | 🎓 B.S. Data Science at GIK Institute  
+ 🎓 B.S. Data Science at GIK Institute  
 
 Welcome to my GitHub profile! I'm a passionate and driven Data Science student with hands-on experience in building machine learning models, developing cloud-native applications, and transforming complex data into actionable insights. I thrive at the intersection of **data, AI, and software engineering**, and I'm always eager to take on challenging projects that solve real-world problems.
 
